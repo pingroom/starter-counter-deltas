@@ -1,0 +1,26 @@
+{
+  "counterId": "paper-count",
+  "title": "Paper counter readings",
+  "context": "Offline paper-card counter; use documented event records.",
+  "meaning": "Cumulative paper cards counted",
+  "unit": "cards",
+  "modulus": 100,
+  "readings": [
+    {
+      "at": "2026-11-09T09:00:00.000Z",
+      "value": 90
+    },
+    {
+      "at": "2026-11-09T09:00:10.000Z",
+      "value": 10
+    },
+    {
+      "at": "2026-11-09T09:00:20.000Z",
+      "value": 35
+    },
+    {
+      "at": "2026-11-09T09:00:30.000Z",
+      "value": 40
+    }
+  ]
+}
